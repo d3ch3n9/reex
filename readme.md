@@ -2,6 +2,20 @@
 
 一款专注于信息获取、知识管理、阅读体验的阅读应用。
 
+## 产品预览
+
+![1](screenshots/0.0.1/1.jpg)
+
+![2](screenshots/0.0.1/2.jpg)
+
+![3](screenshots/0.0.1/3.jpg)
+
+![4](screenshots/0.0.1/4.jpg)
+
+![5](screenshots/0.0.1/5.jpg)
+
+![6](screenshots/0.0.1/6.jpg)
+
 ## 产品愿景
 
 ### 高效的信息获取
